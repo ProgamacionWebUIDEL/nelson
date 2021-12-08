@@ -1,0 +1,23 @@
+{
+  "name": "crudmongonelsiton",
+  "version": "1.0.0",
+  "description": "Es un poroyecto de Crud desarrollado por Nelsiton Eduardo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgamacionWebUIDEL/crudmongonelsiton.git"
+  },
+  "author": "netorresp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProgamacionWebUIDEL/crudmongonelsiton/issues"
+  },
+  "homepage": "https://github.com/ProgamacionWebUIDEL/crudmongonelsiton#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.1.0"
+  }
+}
